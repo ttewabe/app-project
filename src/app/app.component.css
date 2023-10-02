@@ -1,0 +1,23 @@
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background-color: rgb(238, 238, 238);
+}
+ol
+{
+  color:darkblue;
+  font-size: 2rem;
+}
+
+p{
+  color: rgb(30, 23, 23);
+  font-size: 20px;
+}
+
+hr
+{
+  color: black;
+}
